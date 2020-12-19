@@ -8,3 +8,4 @@
 - US_YouTube_Video_Data_Wrangling.jpynb contains the codes for cleaning the data on YouTube videos
 - covid.jpynb contains codes for scraping covid data
 - Merge Covid and video.jpynb is for composing the final data set
+- Exploratory Visualization.jpynb is for visualization of missing values, category frequencies, correlation between date and number of videos, and correlation heatmaps. 
