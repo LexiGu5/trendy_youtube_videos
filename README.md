@@ -9,3 +9,5 @@
 - covid.jpynb contains codes for scraping covid data
 - Merge Covid and video.jpynb is for composing the final data set
 - Exploratory Visualization.jpynb is for visualization of missing values, category frequencies, correlation between date and number of videos, and correlation heatmaps. 
+- EDA and machine learning is for distribution of all variables, recoding, machine learning pipeline, and model performance
+
